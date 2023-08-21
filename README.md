@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tatiana Gutierrez</h1>
-<h3 align="center">Frontend developer from Chile</h3>
+<h3 align="center">Backend developer from Chile</h3>
 
 - 📫 How to reach me **tatianagutierrezolivares15@gmail.com**
 
